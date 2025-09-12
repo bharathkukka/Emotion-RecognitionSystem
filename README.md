@@ -402,8 +402,11 @@ Then following prompts will be displayed:
 
   > 📍Need to  Provide the **full path** to the image 
 
----   
+---      
 
+
+
+      
 ## 🌱 **Future Improvements**
 
 I'm constantly thinking of ways to make it even better. Here are a few key improvements I'm planning to work on in future updates:
