@@ -444,7 +444,7 @@ This would make it accessible to more people, more easily.
 
 ---
 
-### 🗂️ Enhancing the Dataset
+### 🗂️ Enhancing the Dataset 
 
 I believe that **better data means better AI**.
 So, I’m working on collecting a more diverse dataset with:
@@ -465,17 +465,6 @@ To prevent overfitting and improve stability, I’ll also be looking into:
 * 🔄 *Stochastic Depth*
 
 These will allow the model to perform better on unseen data — especially in unpredictable real-world environments.
-
-### 📖 **Scriptural Sources**
-
-The motivational and philosophical messages presented here are lovingly drawn from the timeless teachings of:
-
-* **🕉️ The Vedas**
-* **🏹 The Ramayana**
-* **⚔️ The Mahabharata**
-* **📜 The Bhagavad Gita**
-
-These ancient scriptures offer not just verses — but **wisdom, perspective, and emotional depth**, making this project more than just a technical tool. They’ve added a spiritual and reflective layer that I deeply cherish.
 
 ---
 
