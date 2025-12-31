@@ -1,6 +1,6 @@
 # 🎭 ***Emotion Recognition Using Facial Expressions with Scriptural Wisdom Response For psychotherapy***  
  
-### Time Line September 2024 - Present  
+### Time Line September 2024 - January 2025 
 ---  
 ## 📚 Table of Contents
 
@@ -402,8 +402,11 @@ Then following prompts will be displayed:
 
   > 📍Need to  Provide the **full path** to the image 
 
----   
+---      
 
+
+
+      
 ## 🌱 **Future Improvements**
 
 I'm constantly thinking of ways to make it even better. Here are a few key improvements I'm planning to work on in future updates:
@@ -441,7 +444,7 @@ This would make it accessible to more people, more easily.
 
 ---
 
-### 🗂️ Enhancing the Dataset
+### 🗂️ Enhancing the Dataset 
 
 I believe that **better data means better AI**.
 So, I’m working on collecting a more diverse dataset with:
@@ -462,17 +465,6 @@ To prevent overfitting and improve stability, I’ll also be looking into:
 * 🔄 *Stochastic Depth*
 
 These will allow the model to perform better on unseen data — especially in unpredictable real-world environments.
-
-### 📖 **Scriptural Sources**
-
-The motivational and philosophical messages presented here are lovingly drawn from the timeless teachings of:
-
-* **🕉️ The Vedas**
-* **🏹 The Ramayana**
-* **⚔️ The Mahabharata**
-* **📜 The Bhagavad Gita**
-
-These ancient scriptures offer not just verses — but **wisdom, perspective, and emotional depth**, making this project more than just a technical tool. They’ve added a spiritual and reflective layer that I deeply cherish.
 
 ---
 
