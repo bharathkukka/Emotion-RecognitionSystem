@@ -1,4 +1,4 @@
-# 🎭 ***Emotion Recognition Using Facial Expressions with Scriptural Wisdom Response For psychotherapy***  
+# 🎭 ***Emotion Recognition Using Facial Expressions***  
  
 ### Time Line September 2024 - January 2025 
 ---  
